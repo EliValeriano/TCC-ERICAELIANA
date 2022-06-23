@@ -1,0 +1,36 @@
+.caixa-rosa {
+  background-color:aqua;  
+}
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.caixa-rosa {
+background-color:aquamarine
+text-align: center;
+padding: 10px;
+margin-bottom: 5px;
+}
+#foto {
+    width: 100%;
+}
+#lado-a-lado {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#foto-simbolo {
+    width: 20px;
+}
+#p1 {
+    font-weight: bold; /* Texto em negrito */
+    color:blueviolet; /* Muda a cor da fonte */
+    text-decoration: underline; /* Dixar a linha subrinhada */
+    font-size: 30px; /* Muda tamanho da fonte */
+}
+.barra-de-navegacao .link {
+    color: blue;
+    font-weight: bolder;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: 0.3s all;
+}
